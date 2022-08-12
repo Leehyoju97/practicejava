@@ -15,11 +15,11 @@ public class Output {
         }
     }
 
-    public void printMax() {
+    private void printMax() {
         System.out.println("MAX!!");
     }
 
-    public void noPrintMax() {
+    private void noPrintMax() {
         System.out.println("NO MAX!!");
     }
 }
